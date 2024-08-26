@@ -1,0 +1,38 @@
+body {
+  background-color: antiquewhite;
+  text-align: center;
+}
+h1 {
+  color: #a9141e;
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  padding-top: 0cm;
+}
+h4 {
+  color: red;
+}
+h3 {
+  color: #a9141e;
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  padding-top: 0cm;
+}
+table {
+  margin: auto;
+  font-size: xx-large;
+  border-spacing: 100px;
+}
+#thoat {
+  color: #a9141e;
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 50%;
+}
+#tieptuc {
+  color: #a9141e;
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 50%;
+}

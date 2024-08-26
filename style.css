@@ -1,0 +1,37 @@
+body {
+  /* background-color: antiquewhite; */
+  background-image: url(/hong.img);
+  text-align: center;
+}
+h1 {
+  color: #a9141e;
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  padding-top: 0cm;
+}
+img {
+  margin: auto;
+  display: block;
+  margin: 0 auto;
+  height: 300px;
+  width: 300px;
+}
+table {
+  margin: auto;
+  font-size: xx-large;
+  border-spacing: 100px;
+}
+#thoat {
+  color: #a9141e;
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 50%;
+}
+#tieptuc {
+  color: #a9141e;
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 50%;
+}

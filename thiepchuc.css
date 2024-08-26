@@ -1,0 +1,15 @@
+body {
+  background-image: url(/thiepchuc.img);
+}
+h2 {
+  color: #da2433;
+  font-family: "Pacifico", cursive;
+  text-shadow: 1px 1px 2px #000;
+  text-align: center;
+}
+#click {
+  text-align: right;
+  color: aqua;
+  padding-top: 5cm;
+  padding-right: 2cm;
+}

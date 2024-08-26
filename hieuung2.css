@@ -1,0 +1,36 @@
+body {
+  background-color: antiquewhite;
+  margin: 0 auto;
+  text-align: center;
+}
+.saothoat {
+  color: #a9141e;
+  font-family: "Pacifico", cursive;
+  text-align: center;
+}
+img {
+  margin: auto;
+  display: block;
+  margin: 0 auto;
+  height: 300px;
+  width: 300px;
+}
+table {
+  margin: auto;
+  font-size: xx-large;
+  border-spacing: 100px;
+}
+#thoat {
+  color: #a9141e;
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 50%;
+}
+#tieptuc {
+  color: #a9141e;
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 50%;
+}
